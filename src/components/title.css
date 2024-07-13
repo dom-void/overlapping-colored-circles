@@ -1,0 +1,38 @@
+.overlapping {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13vw;
+    display: block;
+    position: absolute;
+    color: white;
+    opacity: .3;
+    bottom: 1em;
+    padding: 0;
+    z-index: 5;
+}
+
+.colored {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13vw;
+    display: block;
+    position: absolute;
+    color: lightcoral;
+    opacity: .3;
+    bottom: .4em;
+    left: 1em;
+    padding: 0;
+    text-transform: uppercase;
+    z-index: 5;
+}
+
+.circles {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18vw;
+    display: block;
+    position: absolute;
+    color: #eee;
+    opacity: .3;
+    bottom: -.6em;
+    padding: 0;
+    text-transform: uppercase;
+    z-index: 5;
+}

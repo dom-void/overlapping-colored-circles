@@ -1,0 +1,11 @@
+.circle {
+    opacity: .33;
+    border-radius: 50%;
+    /*TODO: put some blur on circles (note: they are bigger then!)*/
+    /* filter: blur(3px); */
+    position: absolute;
+}
+
+.circle:hover {
+    opacity: .66;
+}
